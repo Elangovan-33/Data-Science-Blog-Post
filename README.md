@@ -23,7 +23,7 @@ These are the following files I used to complete this analysis:
 - reviews.csv: A file containing reviews for the listings
 
 ## 4. Summary
-The following results are a brief summary of the data exploration contained in the project:
+The following results are a brief summary of the data exploration contained in the project
 - The most expensive neighborhood is Southeast Magnolia and the cheapest is Rainier Beach.
 - AirBnBs with higher ratings tend to have more comments than AirBnBs with low ratings.
 - The LinearRegression model found r-squared values of 0.4 and 0.29 for training and test data respectively on rating.
