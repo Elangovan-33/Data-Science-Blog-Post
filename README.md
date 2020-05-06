@@ -16,7 +16,7 @@ I formulated 3 questions using the CRISP-DM process to elucidate the findings.
   3. What factors determine rating? Can we predict rating using a model?
 
 ## 3. File Descriptions
-These are the following files I used to complete this analysis:
+These are the following files I used to complete this analysis
 - DataScience_Project1.ipynb: The iPython notebook containing all calculations, figures, and findings pertaining to the project. 
 - calendar.csv: A file containing all of the dates available for listings as well as price
 - listings.csv: A file containing all of the information for listings
