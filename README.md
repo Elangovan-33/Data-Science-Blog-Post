@@ -31,4 +31,4 @@ The following results are a brief summary of the data exploration contained in t
 
 ## 5. Acknowledgements
 The data was hosted on Kaggle and made available by AirBnB (https://www.kaggle.com/airbnb/seattle/data)
-Thank you to the Udacity team for creating this project and associated lessons.
+Thank you to the Udacity team for creating this project and associated lessons
