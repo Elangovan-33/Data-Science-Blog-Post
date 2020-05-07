@@ -8,7 +8,7 @@
 - sklearn.metrics (r2_score, mean_squared_error)
 - seaborn
 - itertools (chain module)
-##2. Project Motivation
+## 2. Project Motivation
 I chose to examine the AirBnB data from Seattle to better understand which factors contributed to the price of an AirBnB. 
 I formulated 3 questions using the CRISP-DM process to elucidate the findings.
   1. Which neighborhood is the most expensive and which is the cheapest?
